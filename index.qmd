@@ -23,8 +23,4 @@ description: |
 
 ---
 
-```{r simple histogram}
-table <- dataset$table(quarto$redivis$table)
-data <- table$to_tibble()
-hist(data$age_days)
-```
+hi
